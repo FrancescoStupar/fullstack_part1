@@ -1,3 +1,3 @@
 left to do:
 
-1. check antidotes
+1. check anectodes
